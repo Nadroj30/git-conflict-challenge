@@ -1,2 +1,3 @@
 # git-conflict-challenge
-learn to git conflict
+
+Je modifie la première ligne sur Github.
